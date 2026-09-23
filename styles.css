@@ -5,8 +5,22 @@ html {
 
 .square-list {
     list-style-type: square;
+    background-color: darkkhaki;
 }
 
 .letter-list {
     list-style-type: upper-alpha;
+    background-color: aqua;
+}
+
+.nav {
+    list-style-type: none;
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin: 20px;
+}
+
+.fun-list {
+    list-style-type: lower-latin;
+    background-color: darkgreen;
 }
